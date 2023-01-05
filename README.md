@@ -29,3 +29,10 @@ id	market_cap_usd
 * matplotlib
 <img src="https://miro.medium.com/max/1370/1*BLx1p0j0zVhPf_VC-OTwCQ.png">  
 
+## conclusion
+il y a une fluctuation considérable entre les changements de pourcentage de 1 et 7 jours dans les crypto-monnaies. Comme pour les actions et de nombreux autres produits financiers, plus la capitalisation est petite, plus le risque et la récompense sont importants. Les petites crypto-monnaies sont des projets moins stables en général, et donc des investissements encore plus risqués que les plus gros .
+
+
+
+
+
